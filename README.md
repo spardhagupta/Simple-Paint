@@ -13,3 +13,5 @@ The application is designed and implemented in Java and apply the following patt
 5. Iterator
 6. Composite
 7. Command
+
+![](ezgif.com-video-to-gif.gif)
